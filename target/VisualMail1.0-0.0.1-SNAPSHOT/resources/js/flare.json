@@ -1,0 +1,41 @@
+﻿{
+"name": "felipe",
+"element": "!",
+"color": "yellow",
+"children": [
+{
+"name": "juan",
+"element": "?",
+"color": "aqua",
+"children": [
+{
+"name": "edmundo",
+"element": "=",
+"color": "green",
+"children": [
+{"name": "estudiante 1","element": "?","color": "aqua", "size": 3938},
+{"name": "estudiante 2","element": "?","color": "aqua", "size": 3812},
+{"name": "estudiante 3","element": "?","color": "aqua", "size": 6714},
+{"name": "estudiante 4","element": "?","color": "aqua", "size": 743}
+]
+},
+{
+"name": "julio",
+"element": "!",
+"color": "yellow",
+"children": [
+{"name": "bob", "size": 3534}
+]
+},
+{
+"name": "andres",
+"element": "?",
+"color": "aqua",
+"children": [
+{"name": "patricio", "size": 7074}
+]
+}
+]
+}
+]
+}
